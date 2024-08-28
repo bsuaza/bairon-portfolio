@@ -1,5 +1,6 @@
 *Bairon Nicolás Suaza Montañez - 
 Portafolio de Análisis de Datos*
+
 Sobre Mí
 
 Soy un aspirante a analista de datos con formación en ingeniería agrícola, apasionado por la programación y la analítica de datos. Este portafolio muestra una selección de proyectos donde aplico técnicas de limpieza, análisis y visualización de datos, así como el desarrollo de modelos predictivos.
