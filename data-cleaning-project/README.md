@@ -57,4 +57,7 @@ El proyecto produce un conjunto de datos limpio y estructurado que está listo p
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme:
+
+- **Correo:** suazabairon@gmail.com
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
